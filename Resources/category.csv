@@ -1,4 +1,4 @@
-category_id,category_name
+category_id,category
 cat1,food
 cat2,music
 cat3,technology
@@ -8,3 +8,4 @@ cat6,publishing
 cat7,games
 cat8,photography
 cat9,journalism
+
